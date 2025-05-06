@@ -144,7 +144,6 @@ try:
     partidas = []
     partida_id = 1
     times_ids = [time[0] for time in times]
-    print(times_ids)
     confrontos_ida = []
     confrontos_volta = []
 
